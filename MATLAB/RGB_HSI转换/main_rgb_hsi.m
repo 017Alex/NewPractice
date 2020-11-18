@@ -1,4 +1,4 @@
-test = imread("test01.jpg");
+test = imread("test_pk.jpg");
 % t_hsi = RGB_HSI(test);
 % t_rgb = HSI_RGB(t_hsi);
 
